@@ -1,0 +1,698 @@
+
+@media(min-width: 1400px){
+
+    .ban-text h1 {
+        line-height: 150px;
+    }
+
+    .ban-text button {
+        padding: 15px 30px;
+    }
+
+}
+
+
+
+@media(min-width: 1200px) and (max-width: 1399px) {
+
+    .ban-text h1 {
+        font-size: 110px;
+        line-height: 110px;
+    }
+
+    .ban-text h2 {
+        font-size: 68px;
+        margin-bottom: 0;
+    }
+
+    .ban-text h1::after {
+        width: 70px;
+        top: 260px;
+    }
+
+    .ban-text button {
+        padding: 10px 30px;
+        margin-top: 80px;
+    }
+
+}
+
+
+
+
+@media(min-width: 992px) and (max-width: 1199px) {
+
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 18px;
+    }
+
+
+    .ban-text button {
+        margin-top: 50px;
+    }
+
+    .ban-text h1 {
+        font-size: 100px;
+        line-height: 100px;
+    }
+
+    .ban-text h2 {
+        font-size: 60px;
+        margin-bottom: 0;
+    }
+
+    .ban-text h1::after {
+        top: 220px;
+    }
+
+    .overlay h3 {
+        top: 58%;
+        transform: translate(-50%, -58%);
+        font-size: 13px;
+    }
+
+    .service-slider-items {
+        margin: 0 5px;
+    }
+
+    .amazing-icons i {
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+
+    .amazing-gap {
+        margin-bottom: 5px;
+        margin-top: 20px;
+    }
+
+    .comment i {
+        display: none;
+    }
+
+    .comment-icon i {
+        height: 100px;
+        width: 100px;
+        line-height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .comment-texts p {
+        font-size: 20px;
+        padding: 0;
+    }
+
+    .team-img {
+        margin: 0 10px;
+    }
+
+    .comment-texts h4 {
+        margin-left: 0;
+        text-align: center;
+    }
+    .comment-texts h4::after {
+        left: 200px;
+    }
+
+    .overlay-icons i {
+        font-size: 18px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+
+    .overlay-conts {
+        position: absolute;
+        width: 100%;
+    }
+
+    .contact-common-header h6 {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+
+    .mogo-gap{
+        padding-bottom: 30px;
+    }
+
+    .mogo-conts p {
+        margin-top: 10px;
+        padding-right: 0;
+        margin-bottom: 15px;
+    }
+
+    #contact {
+        padding-bottom: 0;
+    }
+
+    .subs-form {
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .subs-form a {
+        padding: 10px 130px 10px 130px;
+        margin-left: 15px;
+    }
+
+    .subs-form input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .follow-us {
+         margin-left:0
+    }
+    .blog-texts {
+        padding-top: 0px;
+    }
+}
+
+
+
+
+@media(min-width: 768px) and (max-width: 991.99px) {
+
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-nav{
+        background: linear-gradient(to right, #02aab0, #00cdac);
+    }
+    .ban-text h1::after {
+        display: none;
+    }
+
+    .ban-text button {
+        padding: 0;
+        padding: 5px 30px;
+        text-transform: uppercase;
+        color: #fff;
+        background-color: transparent;
+        border: none;
+        border: 3px solid #fff;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+        font-size: 14px;
+        margin-top: 20px;
+    }
+
+    .ban-text h1 {
+        font-size: 50px;
+        line-height: 0.8;
+    }
+
+    .ban-text h2 {
+        font-size: 45px;
+        margin-bottom: 15px;
+    }
+
+    .overlay h3 {
+        top: 58%;
+        transform: translate(-50%, -58%);
+        font-size: 13px;
+    }
+
+    .service-slider-items {
+        margin: 0 5px;
+    }
+
+    .amazing-icons i {
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+
+    .amazing-gap {
+        margin-bottom: 5px;
+        margin-top: 20px;
+    }
+
+    .comment i {
+        display: none;
+    }
+
+    .comment-icon i {
+        height: 100px;
+        width: 100px;
+        line-height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .comment-texts p {
+        font-size: 20px;
+        padding: 0;
+    }
+
+    .team-img {
+        margin: 0 10px;
+    }
+
+    .comment-texts h4 {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .comment-texts h4::after {
+        display: none;
+    }
+
+    .amazing-contents p::after {
+        display: none;
+    }
+
+    .overlay-icons i {
+        font-size: 18px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+
+    .overlay-conts {
+        position: absolute;
+        width: 100%;
+    }
+
+    .contact-common-header h6 {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+
+    .mogo-gap{
+        padding-bottom: 30px;
+    }
+
+    .mogo-conts p {
+        margin-top: 10px;
+        padding-right: 0;
+        margin-bottom: 15px;
+    }
+
+    #contact {
+        padding-bottom: 0;
+    }
+
+    .subs-form {
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .subs-form a {
+        padding: 10px 125px 10px 125px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+    }
+
+    .subs-form input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .follow-us {
+         margin-left:0
+    }
+    .blog-texts {
+        padding-top: 0px;
+    }
+
+}
+
+
+
+
+
+
+@media(min-width: 576px) and (max-width:767px) {
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-nav{
+        background: linear-gradient(to right, #02aab0, #00cdac);
+    }
+    .ban-text h1::after {
+        display: none;
+    }
+
+    .ban-text button {
+        padding: 0;
+        padding: 5px 30px;
+        text-transform: uppercase;
+        color: #fff;
+        background-color: transparent;
+        border: none;
+        border: 3px solid #fff;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+        font-size: 14px;
+        margin-top: 15px;
+    }
+
+    .ban-text h1 {
+        font-size: 40px;
+        line-height: 0.8;
+    }
+
+    .ban-text h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    .overlay h3 {
+        top: 58%;
+        transform: translate(-50%, -58%);
+        font-size: 13px;
+    }
+
+    .service-slider-items {
+        margin: 0 5px;
+    }
+
+    .amazing-icons i {
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+
+    .amazing-gap {
+        margin-bottom: 5px;
+        margin-top: 20px;
+    }
+
+    .comment i {
+        display: none;
+    }
+
+    .comment-icon i {
+        height: 100px;
+        width: 100px;
+        line-height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .comment-texts p {
+        font-size: 20px;
+        padding: 0;
+    }
+
+    .team-img {
+        margin: 0 10px;
+    }
+
+    .comment-texts h4 {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .comment-texts h4::after {
+        left: 141px;
+    }
+
+    .amazing-contents p::after {
+        display: none;
+    }
+
+    .overlay-icons i {
+        font-size: 18px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+
+    .overlay-conts {
+        position: absolute;
+        width: 100%;
+    }
+
+    .contact-common-header h6 {
+        padding-bottom: 20px;
+        padding-top: 30px;
+    }
+
+    #contact {
+        padding-bottom: 0;
+    }
+
+    .subs-form {
+         margin-top: 0;
+    }
+
+}
+
+
+
+
+
+
+@media(max-width: 575.99px){
+
+
+    
+    .navbar-brand img {
+        padding-bottom: 0px;
+        margin-bottom: 10px;
+        width: 60px;
+    }
+    .navbar {
+        position: static;
+        background-image: linear-gradient(to right, rgba(67, 206, 162, 0.7), rgba(24, 91, 157, 0.8));
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-brand h1 {
+        color: #ffffff;
+        font-size: 20px;
+        padding-top: 10px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .ban-text h2 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .ban-text h1 {
+        font-size: 20px;
+        line-height: normal;
+        position: static;
+    }
+
+    .ban-text button {
+        padding: 5px 8px;
+        border: 1px solid #fff;
+        font-weight: 400;
+        font-size: 13px;
+        margin-top: 0;
+    }
+
+    .ban-text h1::after {
+        content: normal;
+    }
+
+    #services {
+        padding-top: 15px;
+        padding-bottom: 20px;
+    }
+
+    .common-header h3 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .common-header h2 {
+        font-weight: 700;
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    .common-header h2::after {
+        display: none;
+    }
+
+    .service-text p {
+        font-size: 14px;
+        padding: 0 10px;
+        text-align: justify;
+    }
+
+    .service-slider {
+        margin-top: 10px;
+    }
+
+    .overlay h3 {
+        top: 55%;
+        transform: translate(-50%, -55%);
+    }
+
+    .counter-wrapper h3 {
+        font-size: 30px;
+    }
+
+    #counter {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        margin-bottom: 25px;
+    }
+
+    .amazing-icons i {
+        margin-left: 0;
+        padding-bottom: 5px;
+    }
+
+    .amazing-gap {
+        margin-bottom: 5px;
+        margin-top: 20px;
+    }
+
+    .amazing-contents p::after {
+        display: none;
+    }
+
+    .comment i {
+        display: none;
+    }
+
+    .comment-icon i {
+        font-size: 30px;
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+    }
+
+    .comment-texts p {
+        font-size: 18px;
+        text-align: center;
+        padding: 0;
+        padding-top: 10px;
+    }
+
+    .comment-texts h4 {
+        font-size: 20px;
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .comment-texts h4::after{
+        display: none;
+    }
+
+    .team-slider {
+         margin-top: 5px;
+    }
+
+    .team-img {
+        position: relative;
+        margin: 0;
+    }
+
+    #team {
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+
+    #contact {
+        padding-bottom: 0px;
+        padding-top: 30px;
+    }
+
+    #comments {
+        padding-bottom: 40px;
+        padding-top: 40px;
+        margin-top: 0;
+    }
+
+    #gallery {
+        margin-bottom: 0;
+    }
+
+    .mogo-conts p {
+        font-size: 14px;
+        margin-top: 10px;
+        padding-right: 0;
+        margin-bottom: 20px;
+        text-align: justify;
+        padding: 10px;
+    }
+
+    .follow-us i {
+        font-size: 16px;
+        padding-left: 10px;
+    }
+
+    .subs-form input {
+        width: 100%;
+        height: 40px;
+        margin-bottom: 10px;
+    }
+
+    .subs-form a {
+        margin-left: 0;
+        width: 100%;
+        display: inherit;
+        text-align: center;
+    }
+
+    .blog-part{
+        padding-top: 30px;
+    }
+
+    .contact-common-header h6 {
+        padding-bottom: 10px;
+        text-align: center;
+    }
+
+    .footer-content p {
+        font-size: 13px;
+    }
+}
+
+
+/*
+
+.page-up {
+    position: static;
+    display: none;
+}
+
+.page-down {
+    position: static;
+    display: none;
+}
+
+.sticky-menu {
+    position: static;
+    width: 0%;
+    z-index: 0;
+    display: none;
+}
+
+*/
+
+
