@@ -157,3 +157,7 @@ navLinks[2].addEventListener("mouseover",(e) => {
 navLinks[2].addEventListener("mouseleave",(e) => {
     leftSide.classList.remove("bg3")
 })
+
+
+
+
